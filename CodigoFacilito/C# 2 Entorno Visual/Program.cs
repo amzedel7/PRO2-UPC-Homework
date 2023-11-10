@@ -10,7 +10,7 @@ namespace presentacion1 {
         {
             // este es un comentario de Hola Mundo
             /* este es un comentario 
-            de bloque en varias filas */
+            de bloque en varias filas  */
             Console.WriteLine("Hola Mundo");
             Console.ReadKey();
  
