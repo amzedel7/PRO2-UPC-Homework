@@ -30,12 +30,16 @@ namespace HelloWorld
         A.MostrarMayor();
         B.MostrarMayor();
         Console.WriteLine("----------------");
-        Console.ReadKey();
+        A.MostrarMenor();
+        B.MostrarMenor();
+        Console.WriteLine("----------------");
+        A.FibonaciMenor();
+        B.FibonaciMenor();
+        Console.WriteLine("----------------");
+        A.UnirArray(B);
         
-
-    
-
-
+        
+        Console.ReadKey();
          
     }
   }
